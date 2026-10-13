@@ -1435,5 +1435,18 @@
 	  "useCase": "Programming",
 	  "tags": ["AI", "Development", "Open Source", "Automation"],
 	  "free": true
+	},
+	{
+		"id": 159,
+		"url": "https://www.mangatranslate.com",
+		"name": "MangaTranslate",
+		"description": "Translates manga and comic images with OCR, AI translation and editable typesetting. The web app has limited daily free credits and paid plans; the API uses separate paid credits.",
+		"useCase": "Image",
+		"tags": [
+			"Manga",
+			"OCR",
+			"Translation"
+		],
+		"free": true
 	}
 ]
